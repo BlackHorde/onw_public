@@ -1,0 +1,25 @@
+.management_item div.name {
+    font-size: 15px;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    color: gray;
+}
+.management_item .icon {
+    margin: auto;
+    width: 100%;
+    padding: 12% 30% 12% 30%;
+}
+.row .col-md-2 {
+}
+.row .management_item {
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+    background: white;
+}
+.row .management_item:hover {
+    border: 1px solid #56a0ea;
+}
+a:hover {
+    text-decoration: none;
+}
